@@ -1,2 +1,3 @@
-# COVID19-data-analytics-code-and-dataset
-# A fair amount of code that would implement graph plotting and data analysis using Numpy, Matplotlib and other Python frameworks
+#COVID19-data-analytics-code-and-dataset
+- Analysis of tabular data obtained from COVID-19 patients and visualization of obtained information using plots
+- Tools and packages for visualization and analysis of data and dataframes include Numpy, Matplotlib in Python
